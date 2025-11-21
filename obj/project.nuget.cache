@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "V6/wpTnUpRg=",
+  "success": true,
+  "projectFilePath": "/Users/aidenbarrett/Library/CloudStorage/OneDrive-BYU-Idaho/projects/BudgetingApp/BudgetingApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/aidenbarrett/.nuget/packages/microsoft.netcore.app.ref/8.0.11/microsoft.netcore.app.ref.8.0.11.nupkg.sha512",
+    "/Users/aidenbarrett/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.11/microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512",
+    "/Users/aidenbarrett/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.11/microsoft.netcore.app.host.osx-arm64.8.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
